@@ -1,0 +1,19 @@
+body{
+    font-size: 150%;
+    font-family: "Rockwell" ;
+    margin: 3%;
+    padding: 0;
+    scroll-behavior: smooth;
+    background-image: url("J0143743.GIF") ;
+    max-width: auto;
+    height: auto;
+}
+
+#borderimg { 
+    text-align: center;
+    font-size: 45px;
+    color: salmon;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 stretch;
+}
